@@ -1,0 +1,3 @@
+[DEFAULT]
+geometry = 835x432+687+410
+
